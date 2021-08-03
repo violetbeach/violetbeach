@@ -7,7 +7,7 @@
 
 I am a back-end junior developer.
 
-My main focus areas are **`Database`**, **`Web Server`**.
+My main focus areas are **`Back-end`**, **`Server`**, **`Database`**.
 
 I always pay attention to new technology and enjoy learning new and diverse technology stacks.
 
