@@ -5,7 +5,7 @@
 
 **Welcome to my page!**
 
-I am a back-end junior developer.
+I am a server developer.
 
 My main focus areas are **`Back-end`**, **`Server`**, **`Database`**.
 
