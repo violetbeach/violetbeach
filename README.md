@@ -1,6 +1,3 @@
-![](https://img.shields.io/github/followers/violetbeach?style=social)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvioletbeach%2Fvioletbeach)](https://hits.seeyoufarm.com)
-
 # Dev. Jaeheon Lee
 
 **Welcome to my page!**
